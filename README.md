@@ -68,31 +68,28 @@ Dental caries (tooth decay) is one of the most common chronic diseases worldwide
 ## Installation
 
 1. **Clone the repository:**
-## Installation
-
-1. **Clone the repository:**
 git clone https://github.com/yourusername/DentalCariesPrediction.git
 cd DentalCariesPrediction
 
 
 
 2. **Set up a Python virtual environment (recommended):**
-python -m venv venv
+```python -m venv venv```
 
 On Windows:
-venv\Scripts\activate
+```venv\Scripts\activate```
 
 On Unix or Mac:
-source venv/bin/activate
+```source venv/bin/activate```
 
 
 
 3. **Install dependencies:**
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 
 If you prefer manual installation:
-pip install opencv-python pyserial pyfingerprint numpy pillow tensorflow
+```pip install opencv-python pyserial pyfingerprint numpy pillow tensorflow```
 
 
 
@@ -103,7 +100,7 @@ pip install opencv-python pyserial pyfingerprint numpy pillow tensorflow
 ## Usage
 
 1. **Launch the application:**
-python main.py
+```python main.py```
 
 
 2. **Follow the on-screen instructions:**
