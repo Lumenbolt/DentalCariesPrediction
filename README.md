@@ -63,7 +63,8 @@ Dental caries (tooth decay) is one of the most common chronic diseases worldwide
 
 ## Demo
 
-[Download and watch the full tutorial video (tutorial.mp4)](tutorial.mp4)
+![Demo of Dermatoglyphic-based Dental Caries Detection](tutorial.gif)
+
 
 ---
 
