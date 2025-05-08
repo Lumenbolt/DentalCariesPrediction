@@ -26,7 +26,7 @@ Integrative Deep Learning for Predictive Dental Caries Assessment: A comprehensi
 Panshul Agarwal, Debarpan Bhattacharya, Dhruv Trivedi, Bilal Ahmed, Abhinav Tomar
 
 **Read the full paper:**  
-[Overleaf Link](https://www.overleaf.com/read/gzjnfpkxcjxn#39e715)
+[Link](https://www.overleaf.com/read/gzjnfpkxcjxn#39e715)
 
 ---
 ## Project Overview
