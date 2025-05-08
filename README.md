@@ -51,10 +51,10 @@ Dental caries (tooth decay) is one of the most common chronic diseases worldwide
    The image is processed and classified into one of five dermatoglyphic patterns (Arch, Left Loop, Right Loop, Whorl, Tented Arch) using a ResNet50-based model.
 
 3. **Risk Prediction:**  
-   The classified pattern, along with user-input lifestyle factors, is used to estimate dental caries risk.
+   The classified pattern is used to estimate dental caries risk.
 
 4. **Result Output:**  
-   The risk score and category (e.g., "High risk" or "Low risk") are displayed in the GUI.
+   The risk score and risk likelihood are displayed in the GUI.
 
 ---
 
