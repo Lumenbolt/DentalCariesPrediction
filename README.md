@@ -6,7 +6,7 @@ This repository contains a non-invasive, deep learning-based system for assessin
 
 ## Table of Contents
 
-- [Related PAper](#related-paper)
+- [Related Paper](#related-paper)
 - [Project Overview](#project-overview)
 - [System Workflow](#system-workflow)
 - [Demo](#demo)
@@ -63,7 +63,7 @@ Dental caries (tooth decay) is one of the most common chronic diseases worldwide
 
 ## Demo
 
-![Demo of Dermatoglyphic-based Dental Caries Detection](tutorial.mp4)
+[Download and watch the full tutorial video (tutorial.mp4)](tutorial.mp4)
 
 ---
 
