@@ -12,11 +12,8 @@ This repository contains a non-invasive, deep learning-based system for assessin
 - [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Directory Structure](#directory-structure)
 - [Prerequisites](#prerequisites)
-- [Authors](#authors)
 - [Citation](#citation)
-- [License](#license)
 
 ---
 
@@ -116,22 +113,6 @@ python main.py
 
 ---
 
-## Directory Structure
-
-DentalCariesPrediction/
-│
-├── main.py
-├── fingerprint.py
-├── ml.py
-├── resNet_model_for_fingerprintClassification.keras
-├── requirements.txt
-├── tutorial.mp4
-├── README.md
-
-
-
----
-
 ## Prerequisites
 
 - **Python 3.8+**
@@ -146,19 +127,6 @@ DentalCariesPrediction/
   - tkinter (usually included with Python)
 - **Model:**  
   - `resNet_model_for_fingerprintClassification.keras` must be present in the project directory.
-
----
-
-
-## Authors
-
-- Panshul Agarwal
-- Debarpan Bhattacharya
-- Dhruv Trivedi
-- Bilal Ahmed
-- Abhinav Tomar
-
-For more details, see our [paper on Overleaf](https://www.overleaf.com/read/gzjnfpkxcjxn#39e715).
 
 ---
 
