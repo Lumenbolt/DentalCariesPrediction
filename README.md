@@ -68,7 +68,7 @@ Dental caries (tooth decay) is one of the most common chronic diseases worldwide
 ## Installation
 
 1. **Clone the repository:**
-git clone https://github.com/yourusername/DentalCariesPrediction.git
+git clone https://github.com/lumenbolt/DentalCariesPrediction.git
 cd DentalCariesPrediction
 
 
