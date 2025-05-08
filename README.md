@@ -105,7 +105,7 @@ If you prefer manual installation:
 
 2. **Follow the on-screen instructions:**
 - Place your finger on the scanner.
-- Enter any additional lifestyle information if prompted.
+- Enter Gender in the dropbox.
 - View your dental caries risk assessment.
 
 ---
